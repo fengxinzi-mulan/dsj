@@ -3,8 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:21.280000,
-https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200229/12894425HQWkDeu6tUA7aLpJvx.mp4
 #EXTINF:2.046444,
 https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200229/12894425QMoHMINSJ5FPmxCJR2-00001.ts
 #EXTINF:5.080000,
